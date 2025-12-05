@@ -1,4 +1,4 @@
-# ReLU_Plus_Plus
+# "ReLU Plus Plus"
 
 ReLU++: A modified ReLU activation function with enhanced performance for deep learning models.
 
@@ -8,11 +8,11 @@ _Description_
 
 The ReLU (Rectified Linear Unit) activation function is one of the most popular in deep neural networks. However, it has some limitations, such as the loss of information in negative values.
 
-ReLU_Plus_Plus is a variant of the ReLU function that attempts to mitigate these limitations. It allows adjusting the slope for positive and negative values, which can improve the performance of neural networks in certain tasks.
+"ReLU Plus Plus" is a variant of the ReLU function that attempts to mitigate these limitations. It allows adjusting the slope for positive and negative values, which can improve the performance of neural networks in certain tasks.
 
 _Formula_
 
-The ReLU_Plus_Plus function is defined as:
+The "ReLU Plus Plus" function is defined as:
 
 If x < 0, then f(x) = ax
 
@@ -30,7 +30,7 @@ _Features_
 
 _Installation_
 
-To install ReLU_Plus_Plus, you can use the following command:
+To install "ReLU Plus Plus", you can use the following command:
 
 ```
 git clone https://github.com/akinetic/relu-plus-plus.git
@@ -38,10 +38,10 @@ git clone https://github.com/akinetic/relu-plus-plus.git
 
 _Usage_
 
-To use ReLU_Plus_Plus in your machine learning models, simply import the function and use it like any other activation function:
+To use "ReLU Plus Plus" in your machine learning models, simply import the function and use it like any other activation function:
 
 ```
-from relu_plus_plus import relu-plus-plus
+from relu-plus-plus import relu-plus-plus
 
 Create a machine learning model
 model = tf.keras.models.Sequential([
@@ -52,7 +52,7 @@ model = tf.keras.models.Sequential([
 
 _Contribution_
 
-ReLU_Plus_Plus is an open-source project, and any contribution is welcome. If you want to contribute, please fork the repository and submit a pull request.
+"ReLU Plus Plus" is an open-source project, and any contribution is welcome. If you want to contribute, please fork the repository and submit a pull request.
 
 _Authors_
 - Alex
@@ -60,4 +60,4 @@ _Authors_
 
 _License_
 
-ReLU_Plus_Plus is distributed under the MIT license.
+"ReLU Plus Plus" is distributed under the MIT license.
