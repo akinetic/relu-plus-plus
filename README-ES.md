@@ -33,8 +33,7 @@ Es importante notar que ReLU (a=0, b=1), Leaky ReLU (a=0.01, b=1), y Parametric 
 Para instalar "ReLU Plus Plus", puedes usar el siguiente comando:
 
 ```
-git clone
-https://github.com/akinetic/relu-plus-plus.git
+git clone https://github.com/akinetic/relu-plus-plus.git
 ```
 
 _Uso_
